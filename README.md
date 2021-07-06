@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nhoyt123
+- 👋 Hi, I’m Nick Hoyt
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL & R
 - 💞️ I’m looking to collaborate on database projects
